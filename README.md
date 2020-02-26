@@ -1,4 +1,4 @@
 # Spectrum Generator
 Генерирует спектры .......................
 
-![alt tag](main.jpg)
+![alt tag](main.png)
