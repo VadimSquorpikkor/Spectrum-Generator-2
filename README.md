@@ -1,4 +1,6 @@
 # Spectrum Generator
-Генерирует спектры .......................
+Генерирует спектры из .spe или .ats файлов
 
-![alt tag](main1.png)![alt tag](main2.png)![alt tag](main3.png)
+![alt tag](main.png)
+
+
