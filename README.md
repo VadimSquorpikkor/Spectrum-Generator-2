@@ -1,2 +1,3 @@
 # Spectrum Generator
-123
+Генерирует спектры .......................
+![alt tag](main.jpg)
